@@ -1,8 +1,4 @@
 /**
- * 
- */
-/**
- * @author xconnect
- *
+ * @author Nicolas Lehmann
  */
 package program;
